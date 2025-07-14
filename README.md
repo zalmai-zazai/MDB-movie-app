@@ -22,7 +22,7 @@ A fast and elegant movie search application built with [Vite](https://vitejs.dev
 
 ## 📷 Demo
 
-👉 [Live Demo](https://your-demo-link.com) _(replace this with your Netlify or Vercel link)_
+👉 [Live Demo](https://celebrated-mousse-fbf713.netlify.app/) _(replace this with your Netlify or Vercel link)_
 
 ## 🔧 Getting Started
 
